@@ -5,8 +5,6 @@
 
 -->
 
-# DSDI: Multivariate Time Series Imputation
-
 It's a pytorch implementation of paper "Boundary-Enhanced Time Series Data Imputation with
 Long-Term Dependency Diffusion Models" .
 
